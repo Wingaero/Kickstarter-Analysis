@@ -1,0 +1,29 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose: 
+#### 	The purpose of this analysis is to provide the client with statistical information about what makes crowdfunded projects successful as well as what may lead them to be unsuccessful. 
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+####	Some challenges or difficulties that can be encountered when analyzing this dataset include: 
+####		(?)Accounting for the theater-building projects as successful plays(?) -- later stage success on OBoG
+####		(?)Misreading the October bump in TOBoLD as higher chance for success(?)
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+	Never start a theater campaign in late Autumn/Winter
+	Campaigns that start in Summer have a much higher chance of success
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
