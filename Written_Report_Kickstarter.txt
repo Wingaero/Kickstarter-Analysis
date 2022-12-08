@@ -13,8 +13,9 @@
 
 ### Challenges and Difficulties Encountered
 ####	Some challenges or difficulties that can be encountered when analyzing this dataset include: 
-####		(?)Accounting for the theater-building projects as successful plays(?) -- later stage success on OBoG
-####		(?)Misreading the October bump in TOBoLD as higher chance for success(?)
+####		a challenge one could face when reading this dataset is taking the higher success rate in larger goals at face value
+			sample size
+####		not accounting for the outliers in the initial dataset
 
 ## Results
 
